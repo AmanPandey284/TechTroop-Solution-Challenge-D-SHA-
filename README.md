@@ -1,1 +1,2 @@
-# TechTroop-Solution-Challenge-D-SHA-
+#D!SHA 
+The all-in-one platform and Our solution mainly focuses on providing scholarships/fellowships, industry-level courses for the development of personality of an individual. Our solution ensures equal access to education and supports students in achieving their academic and career goals. Our app helps financially unstable individuals to continue their higher studies through our courses or by scholarships/fellowships. Our app also has a expenditure tracker that helps the individual to know about their expenses and spend their money wisely. It has a listing of scholarships/fellowships that will be active at that time.
